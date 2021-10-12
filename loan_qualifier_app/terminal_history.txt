@@ -1,0 +1,921 @@
+   50  ls
+   51  mv sample.txt example.txt
+   52  ls
+   53  cd test
+   54  cd ~/test
+   55  git clone <test>
+   56  cd ~/test
+   57  git clone git@github.com:noahbeito/Sample-1.git
+   58  cd sample-1
+   59  ls
+   60  git add -A
+   61  git add .
+   62  git commit -m "Added an index.html file"
+   63  git push origin master
+   64  cd git@github.com:noahbeito/Sample-1.git
+   65  git checkout -b poop
+   66  git add -A
+   67  git commit -m "mr"
+   68  git push origin poop
+   69  git checkout sample-1
+   70  cd poop
+   71  cd test
+   72  cd sample-1
+   73  cd Sample-1
+   74  cd main
+   75  git checkout main
+   76  git pull
+   77  conda activate dev
+   78  jupyter lab
+   79  conda activate dev
+   80  jupyter lab
+   81  conda deactivate
+   82  ssh-keygen -t rsa -b 4096
+   83  cd test
+   84  ssh-keygen -t ed25519 -C "noah.beit@gmail.com"
+   85  ssh-keygen -t ed25519 -C "noah.beito@gmail.com"
+   86  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+   87  tr -d '\n' < ~/.ssh/noah.beito@gmail.com | pbcopy
+   88  tr -d '/n' < ~/.ssh/id_ed25519.pub | pbcopy
+   89  ssh-keygen -t ed25519 -C "noahbeito"
+   90  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+   91  ssh -T git@ucb.bootcampcontent.com
+   92  brew doctor
+   93  command brew doctor
+   94  brew help
+   95  >>> which brew
+   96  which brew
+   97  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   98  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/noahbeito/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv)"
+   99  brew help
+  100  brew help
+  101  brew help
+  102  conda init zsh
+  103  conda --version
+  104  conda update conda
+  105  conda create -n dev python=3.7 anaconda
+  106  pwd
+  107  ls
+  108  pwd
+  109  ls
+  110  mkdir FinTech-Workspace
+  111  ls
+  112  cd FinTech-Workspace
+  113  ls
+  114  cd ..
+  115  ls
+  116  pwd
+  117  ls
+  118  cd Desktop/
+  119  ls
+  120  cd
+  121  cd Desktop/
+  122  ls
+  123  cd Fintech-Workspace/
+  124  ls
+  125  cd Python_Project/
+  126   ls
+  127  conda activate dev
+  128  python --version
+  129  code .
+  130  code .
+  131  code .
+  132  code .
+  133  python hello_python.py
+  134  conda deactivate
+  135  ls
+  136  cd Desktop/
+  137  ls
+  138  cd FinTech-Workspace/
+  139  ls
+  140  cd Python_Project
+  141  ls
+  142  conda activate dev
+  143  python --version
+  144  code .
+  145  python hello_python.py
+  146  conda deactivate
+  147  cd Puthon_Workspace/
+  148  cd Desktop/
+  149  ls
+  150  cd FinTech-Workspace/
+  151  ls
+  152  cd Python_Project/
+  153  ls
+  154  conda activate dev
+  155  python hello_python.py
+  156  conda deactivate
+  157  cd Python_Workspace/
+  158  ls
+  159  conda activate dev
+  160  python hello_variables.py
+  161  ls
+  162  conda activate dev
+  163  python hello_variables.py
+  164  ls
+  165  cd Desktop/
+  166  ls
+  167  cd FinTech-Workspace/
+  168  ls
+  169  cd Python_Project/
+  170  ls
+  171  conda activate deev
+  172  conda activate dev
+  173  python hello_variables.py
+  174  conda deactivate
+  175  ls
+  176  cd Class Activites
+  177  cd Desktop/
+  178  ssh -T git@github.com
+  179  ls
+  180  cd Desktop
+  181  ls
+  182  cd FinTech-Workspace
+  183  ls
+  184  cd Python_Project
+  185  ls
+  186  cd Desktop
+  187  ls
+  188  cd Desktop
+  189  ls
+  190  cd Class Activities
+  191  cd Class-Activities
+  192  ls
+  193  ls
+  194  cd Desktop
+  195  ls
+  196  cd Class-Activites
+  197  cd Class-Activities
+  198  ls
+  199  cd 01_Hello_Variable_World
+  200  ls
+  201  cd Unsolved
+  202  ls
+  203  conda activate dev
+  204  python hello_variable_world.py
+  205  ls
+  206  cd 01_Hello_Variable_World 
+  207  ls
+  208  cd Unsolved
+  209  ls
+  210  conda activate dev
+  211  python hello_variable_world.py
+  212  python hello_variable_world.py
+  213  ls
+  214  cd 01_Hello_Variable_World
+  215  ls
+  216  cd Unsolved
+  217  conda activate dev
+  218  python hello_variable_world.py
+  219  ls
+  220  ls
+  221  ls
+  222  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  223  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  224  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  225  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  226  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  227  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  228  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  229  /usr/bin/python3 "/Users/noahbeito/Desktop/Class Activites/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+  230  /usr/bin/python3 /Users/noahbeito/Desktop/02_Listing_Assets/Unsolved/listing_assets.py
+  231  /usr/bin/python3 /Users/noahbeito/Desktop/02_Listing_Assets/Unsolved/listing_assets.py
+  232  /usr/bin/python3 /Users/noahbeito/Desktop/02_Listing_Assets/Unsolved/listing_assets.py
+  233  /usr/bin/python3 "/Users/noahbeito/Desktop/test/top_traders_per_month = {}.py"
+  234  /usr/bin/python3 "/Users/noahbeito/Desktop/test/top_traders_per_month = {}.py"
+  235  /usr/bin/python3 "/Users/noahbeito/Desktop/test/top_traders_per_month = {}.py"
+  236  /usr/bin/python3 "/Users/noahbeito/Desktop/test/top_traders_per_month = {}.py"
+  237  /usr/bin/python3 "/Users/noahbeito/Desktop/test/top_traders_per_month = {}.py"
+  238  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  239  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  240  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  241  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  242  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  243  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  244  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  245  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  246  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  247  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Solved/the_401k_shuffle.py
+  248  /usr/bin/python3 /Users/noahbeito/Desktop/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  249  /usr/bin/python3 /Users/noahbeito/Desktop/test/Untitled-1.py
+  250  /usr/bin/python3 /Users/noahbeito/Desktop/test/Untitled-1.py
+  251  ls
+  252  cd Desktop
+  253  ls
+  254  cd 02_Listing_Assets
+  255  ls
+  256  cd Unsolved
+  257  ls
+  258  conda activate dev
+  259  python listing_assets.py
+  260  conda deactivate
+  261  pdw
+  262  ls
+  263  ls
+  264  cd Desktop
+  265  ls
+  266  cd 1
+  267  ls
+  268  ls
+  269  cd Desktop/1/Activites/02_Stu_Percent_Increase
+  270  ls
+  271  ls
+  272  ls
+  273  conda activate dev
+  274  python percent_increase.py
+  275  python percent_increase.py
+  276  ls
+  277  cd Desktop
+  278  cd test
+  279  ls
+  280  conda activate dev
+  281  python boolean_test.py
+  282  python boolean_test.py
+  283  python boolean_test.py
+  284  python boolean_test.py
+  285  python boolea
+  286  python boolean_test.py
+  287  python boolean_test.py
+  288  /usr/bin/python3
+  289  ls
+  290  cd Desktop
+  291  ls
+  292  cd 01_Conditional_Statement
+  293  ls
+  294  cd Unsolved
+  295  ls
+  296  conda activate dev
+  297  python conditional_statement.py
+  298  python conditional_statement.py
+  299  python conditional_statement.py
+  300  python conditional_statement.py
+  301  python conditional_statement.py
+  302  python conditional_statement.py
+  303  conda deactivate
+  304  ls
+  305  ls
+  306  cd Desktop
+  307  ls
+  308  cd 02_Nested_Conditionals
+  309  ls
+  310  cd Unsolved
+  311  ls
+  312  conda activate dev
+  313  python nested_conditionals.py
+  314  python nested_conditionals.py
+  315  python nested_conditionals.py
+  316  python nested_conditionals.py
+  317  ls
+  318  cd Desktop
+  319  ls
+  320  cd Module\ 1
+  321  ls
+  322  cd Desktop
+  323  ls
+  324  cd Module_1
+  325  ls
+  326  cd 03_Split_Second_Homebuying
+  327  ls
+  328  cd Unsolved
+  329  ls
+  330  conda activate dev
+  331  python split_second_homebuying.py
+  332  python split_second_homebuying.py
+  333  python split_second_homebuying.py
+  334  cd Desktop
+  335  ls
+  336  cd Modul
+  337  ls
+  338  cd Module_1
+  339  ls
+  340  cd 03_Split_Second_Homebuying
+  341  ls
+  342  cd Unsolved
+  343  cd
+  344  ls
+  345  cd Desktop/Module_1/03_Split_Second_Homebuying/Unsolved
+  346  ls
+  347  conda activate dev
+  348  python split_second_homebuying.py
+  349  python split_second_homebuying.py
+  350  python split_second_homebuying.py
+  351  python split_second_homebuying.py
+  352  python split_second_homebuying.py
+  353  ..
+  354  .
+  355   ..
+  356  cd Desktop/Module_1/
+  357  ls
+  358  cd 03_Split_Second_Homebuying
+  359  ls
+  360  cd Solved
+  361  ls
+  362  conda activate dev
+  363  python split_second_homebuying.py
+  364  ..
+  365  cd ..
+  366  l
+  367  ls
+  368  cd Unsolved
+  369  python split_second_homebuying.py
+  370  python split_second_homebuying.py
+  371  python split_second_homebuying.py
+  372  python split_second_homebuying.py
+  373  python split_second_homebuying.py
+  374  python split_second_homebuying.py
+  375  python split_second_homebuying.py
+  376  python split_second_homebuying.py
+  377  ls
+  378  cd Desktop/Module-1
+  379  ls
+  380  cd 03_Split_Second_Homebuying/Unsolved
+  381  ls
+  382  conda activate dev
+  383  python split_second_homebuying.py
+  384  conda deactivate
+  385  python split_second_homebuying.py
+  386  which python
+  387  /usr/bin/python3 "/Users/noahbeito/Desktop/Module 1/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  388  ls
+  389  cd Desktop
+  390  ls
+  391  cd Module-1
+  392  ls
+  393  cd 03_Split_Second_Homebuying
+  394  ls
+  395  cd Unsolved
+  396  ls
+  397  conda activate dev
+  398  python split_second_homebuying.py
+  399  python sp
+  400  python split_second_homebuying.py
+  401  python split_second_homebuying.py
+  402  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  403  cd Desktop
+  404  ls
+  405  cd Module-1
+  406  ls
+  407  cd 01_A_Definitive_Buy
+  408  ls
+  409  cd Unsolved
+  410  ls
+  411  conda activate dev
+  412  python a_definitive_buy.py
+  413  cd ..
+  414  ls
+  415  cd ..
+  416  ls
+  417  cd 02_Returned_Goods
+  418  ls
+  419  cd Unsolved
+  420  ls
+  421  python returned_goods.py
+  422  /usr/bin/python3
+  423  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  424  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  425  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  426  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  427  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  428  /usr/bin/python3 /Users/noahbeito/Desktop/Module-1/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  429  ls
+  430  cd Desktop
+  431  ls
+  432  cd Module-1
+  433  ls
+  434  cd 02_Returned_Goods
+  435  cd Unsolved
+  436  ls
+  437  conda activate dev
+  438  python returned_goods.py
+  439  python returned_goods.py
+  440  python returned_goods.py
+  441  cd..
+  442  clear
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd 03_Split_Second_Homebuying_Part_2
+  449  ls
+  450  cd Unsolved
+  451  ls
+  452  python split_second_part_2.py
+  453  python split_second_part_2.py
+  454  python split_second_part_2.py
+  455  python split_second_part_2.py
+  456  ls
+  457  cd ..
+  458  ls
+  459  cd ..
+  460  ls
+  461  cd 01_ra
+  462  cd 01_Racking_Up_The_Profit
+  463  ls
+  464  cd Unsolved
+  465  ls
+  466  python racking_up_the_profit.py
+  467  clear
+  468  import pathlib
+  469  conda deactivate
+  470  import pathlib
+  471  ls
+  472  cd ..
+  473  ls
+  474  cd ..
+  475  ls
+  476  cd 02_Pathways_to_Success_Part_1
+  477  ls
+  478  cd Unsolved
+  479  ls
+  480  conda activate dev
+  481  ls
+  482  cd pathways_to_success.py
+  483  python pathways_to_success.py
+  484  python pathways_to_success.py
+  485  ls
+  486  cd ..
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd 03_Pathways_to_Success_Part_2
+  491  ls
+  492  cd Unsolved
+  493  ls
+  494  python pathways_to_success_part_2.py
+  495  python pathways_to_success_part_2.py
+  496  python pathways_to_success_part_2.py
+  497  python pathways_to_success_part_2.py
+  498  python pathways_to_success_part_2.py
+  499  python pathways_to_success_part_2.py
+  500  python pathways_to_success_part_2.py
+  501  ls
+  502  cd ..
+  503  ls
+  504  cd ..
+  505  ls
+  506  cd 04_Automating_Equity_Rounds
+  507  ls
+  508  cd Unsolved
+  509  ls
+  510  python automated_equity_rounds.py
+  511  python automated_equity_rounds.py
+  512  python automated_equity_rounds.py
+  513  python automated_equity_rounds.py
+  514  python automated_equity_rounds.py
+  515  python automated_equity_rounds.py
+  516  python automated_equity_rounds.py
+  517  python automated_equity_rounds.py
+  518  python automated_equity_rounds.py
+  519  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  520  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  521  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  522  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  523  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  524  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  525  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  526  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  527  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  528  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  529  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  530  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  531  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  532  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  533  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  534  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  535  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  536  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  537  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  538  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  539  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  540  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  541  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  542  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  543  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  544  ls
+  545  cd 
+  546  cd Desktop
+  547  ls
+  548  cd Challenge1
+  549  ls
+  550  cd Starter_Code
+  551  ls
+  552  python loan_analyzer.py
+  553  python loan_analyzer.py
+  554  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  555  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  556  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  557  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  558  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  559  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  560  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  561  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  562  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  563  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  564  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  565  /usr/bin/python3 /Users/noahbeito/Desktop/challenge_testcodes.py
+  566  conda activate dev
+  567  pip -V
+  568  pip freeze
+  569  pip install fire
+  570  pip install questionary
+  571  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  572  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  573  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  574  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  575  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  576  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  577  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  578  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  579  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  580  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  581  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  582  git pull
+  583  ls
+  584  git pull
+  585  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  586  cd ..
+  587  ls
+  588  cd FinTech-Demo
+  589  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  590  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  591  git pull
+  592  ls
+  593  cd Desktop
+  594  ls
+  595  cd 2_Module
+  596  cd 2-Module
+  597  ls
+  598  cd 02_Loan_Qualifier_Filtering_Data
+  599  ls
+  600  cd Unsolved
+  601  ls
+  602  conda activate dev
+  603  python app.py
+  604  pwd
+  605  python
+  606  pwd
+  607  ls
+  608  cd Desktop
+  609  cd 2-Module
+  610  ls
+  611  cd Class_1_Activities
+  612  ls
+  613  cd 03_Inst_ATM_Application_Logic
+  614  ls
+  615  cd Unsolved
+  616  ls
+  617  conda activate dev
+  618  python atm.py
+  619  ls
+  620  cd Desktop
+  621  ls
+  622  cd 2-Module
+  623  ls
+  624  cd Class_2_Activities
+  625  ls
+  626  cd 02_Stu_Build_ATM_Functions
+  627  ls
+  628  cd Unsolved
+  629  ls
+  630  conda activate dev
+  631  python atm
+  632  python atm.py
+  633  python atm
+  634  conda deactivate
+  635  conda help create
+  636  conda create --help
+  637  clear
+  638  conda create --name atmdev python=3.7 anaconda
+  639  conda env list
+  640  conda activate atmdev
+  641  python atm.py
+  642  ls
+  643  python atm
+  644  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/Starter_Code/loan_analyzer.py
+  645  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/Starter_Code/loan_analyzer.py
+  646  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/Starter_Code/loan_analyzer.py
+  647  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/Starter_Code/loan_analyzer.py
+  648  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  649  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  650  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  651  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  652  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  653  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  654  /usr/bin/python3 /Users/noahbeito/Desktop/Challenge1/loan_analyzer_final.py
+  655  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  656  ls
+  657  cd Desktop
+  658  ls
+  659  cd 1-Module
+  660  ls
+  661  cd ..
+  662  ls
+  663  cd Challenge1
+  664  ls
+  665  cd Starter_Code
+  666  ls
+  667  python activate dev
+  668  conda activate dev
+  669  python loan_analyzer.py
+  670  cd ..
+  671  ls
+  672  python loan_analyzer_final.py
+  673  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/cli.py
+  674  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/cli.py
+  675  /usr/bin/python3
+  676  pip install fire
+  677  ls
+  678  cd Desktop
+  679  ls
+  680  cd 2-Module
+  681  ls
+  682  conda activate dev
+  683  python cli.py
+  684  python cli.py
+  685  python cli.py
+  686  python cli.py
+  687  ls
+  688  python cli.py
+  689  python cli.py --pants=True
+  690  python cli.py --pants=True
+  691  python cli.py --pants=True
+  692  python cli.py --pants=False
+  693  ls
+  694  cd ..
+  695  ls
+  696  cd 2-Module
+  697  ls
+  698  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  699  ls
+  700  cd Unsolved
+  701  ls
+  702  python app.py
+  703  python app.py --credit_score=750
+  704  python app.py --credit_score=750, debt=5000, income=20000
+  705  python app.py --credit_score=750 --debt=5000 -income==20000
+  706  ls
+  707  python app.py --credit_score=750 --debt=5000 --income=60000
+  708  ls
+  709  cd ..
+  710  ls
+  711  cd .. 
+  712  cd ..
+  713  cd .. ..
+  714  ls
+  715  python dialog.py
+  716  python dialog.py
+  717  python dialog.py
+  718  python dialog.py
+  719  cd ..
+  720  ls
+  721  cd Desktop
+  722  ls
+  723  cd 2-Module
+  724  ls
+  725  cd 02_Adding_questionary_to_Loan_Qualifier
+  726  ls
+  727  cd Unsolved
+  728  ls
+  729  python app.py
+  730  python app.py --credit_score=750 --debt=5000 --income=20000
+  731  python app.py --credit_score=750 --debt=5000 --income=20000
+  732  ls
+  733  python app.py
+  734  python app.py
+  735  python app.py
+  736  python app.py
+  737  clear
+  738  git config --global user.name Noah Beito
+  739  git congif --global user.email noah.beito@gmail.com
+  740  git config --global user.email noah.beito@gmail.com
+  741  git config --list
+  742  git config --global user.name noahbeito
+  743  git config --list
+  744  ls
+  745  cd Desktop
+  746  ls
+  747  cd test
+  748  git clone https://github.com/noahbeito/Test.git 
+  749  git clone https://github.com/noahbeito/Test.git
+  750  git clone https://github.com/noahbeito/Test.git
+  751  git clone https://github.com/noahbeito/Test.git
+  752  git clone https://github.com/noahbeito/Test.git
+  753  git clone git@github.com:noahbeito/Test.git
+  754  pwd
+  755  git status
+  756  pwd
+  757  ls
+  758  cd Test
+  759  ls
+  760  git status
+  761  git add README.md
+  762  git status
+  763  touch new_file.txt
+  764  ls
+  765  git status
+  766  git add new_file.txt
+  767  git status
+  768  git commit -m "edited readme and added new text file"
+  769  git push
+  770  clear
+  771  conda activate dev
+  772  conda activate dev
+  773  jupyter lab
+  774  conda deactivate
+  775  clear
+  776  ls
+  777  conda activate dev
+  778  jupyter lab
+  779  ls
+  780  cd Desktop
+  781  ls
+  782  cd 2-Module
+  783  ls
+  784  cd Starter_Code
+  785  ls
+  786  conda activate dev
+  787  cd loan_qualifier_app
+  788  ls
+  789  python app.py
+  790  python app.py
+  791  python app.py
+  792  python app.py
+  793  pwd
+  794  jupyter lab
+  795  ls
+  796  cd Desktop
+  797  ls
+  798  FinTech_Demo
+  799  cd FinTech-Demo
+  800  cd ucb-virt-fin-pt-09-2021-u-b
+  801  git pull
+  802  ls
+  803  cd Live-Lesson-Activities
+  804  ls
+  805  conda activate dev
+  806  pwd
+  807  ..
+  808  cd ..
+  809  pwd
+  810  cd Live-Lesson-Activities
+  811  ls
+  812  cd 03
+  813  cd 03-Financial-Analysis-Pandas
+  814  pwd
+  815  jupyter lab
+  816  jupyter lab
+  817  jupyter lab
+  818  y
+  819  pwd
+  820  cd Desktop
+  821  ls
+  822  cd 3-Module
+  823  ls
+  824  cd 01_Visualize_the_VIX
+  825  conda activate dev
+  826  jupyter lab
+  827  ls
+  828  cd ..
+  829  ls
+  830  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Starter_Code/loan_qualifier_app/app.py
+  831  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Starter_Code/loan_qualifier_app/app.py
+  832  /usr/bin/python3 /Users/noahbeito/Desktop/2-Module/Starter_Code/loan_qualifier_app/app.py
+  833  conda activate dev
+  834  jupyter lab
+  835  pwd
+  836  cd ..
+  837  ls
+  838  git pull 3610b980472de9c76fb6f6e560e4d4f6545f3f35
+  839  git pull
+  840  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  841  ls
+  842  cd 03-Financial-Analysis-Pandas
+  843  ls
+  844  cd 2
+  845  ls
+  846  cd Activities
+  847  ls
+  848  cd..
+  849  cd ..
+  850  pwd
+  851  jupyter lab
+  852  ls
+  853  clear
+  854  ls
+  855  cd ..
+  856  ls
+  857  cd ..
+  858  ls
+  859  cd ..
+  860  ls
+  861  cd 2-Module
+  862  ls
+  863  cd Starter_Code
+  864  ls
+  865  cd loan
+  866  cs loan_qualifier_app
+  867  ls
+  868  cd loan_qualifier_app
+  869  ls
+  870  python app.py
+  871  python app.py
+  872  pip install fire
+  873  pip -V
+  874  pip freeze
+  875  clear
+  876  ls
+  877  cd..
+  878  cd ..
+  879  ls
+  880  python loan_qualifier_app
+  881  ls
+  882  python loan_qualifier_app
+  883  ls
+  884  cd loan_qualifier_app
+  885  python app.py
+  886  python app.py
+  887  ls
+  888  python app.py
+  889  ls
+  890  python app.py
+  891  ls
+  892  python app.py
+  893  python app.py
+  894  python app.py
+  895  python app.py
+  896  python app.py
+  897  ls
+  898  python app.py
+  899  git status
+  900  git add README.md
+  901  git add
+  902  ls
+  903  conda deactivate
+  904  git config --global user.name noahbeito
+  905  git config --global user.email noah.beito@gmail.com
+  906  git clone git@github.com:noahbeito/Loan_Qualifier_App.git
+  907  git status
+  908  cd ..
+  909  ls
+  910  clear
+  911  ls
+  912  ls
+  913  ls
+  914  cd Desktop
+  915  ls
+  916  cd 2-M
+  917  cd 2-Module
+  918  git clone git@github.com:noahbeito/Loan_Qualifier_App.git
+  919  git add
+  920  ls
+  921  cd Loan_Qualifier_App
+  922  git add
+  923  ls
+  924  git status
+  925  git status
+  926  git add loan_qualifier_app/
+  927  git status
+  928  git commmit -m "Updated Adding files for the Loan Qualifier App. New code added for writing qualified loans to a csv file. \n\n"
+  929  git commit -m "Updated Adding files for the Loan Qualifier App. New code added for writing qualified loans to a csv file."
+  930  git push
+  931  ls
+  932  cd ..
+  933  ls
+  934  cd Loan_Qualifier_App
+  935  ls
+  936  cd loan_qualifier_app
+  937  ls
+  938  conda activate dev
+  939  python app.py
+  940  git status
+  941  git add ../readme_images/
+  942  git status
+  943  git add README.md
+  944  git status
+  945  git commit -m "Updated README.md"
+  946  git push
+  947  ls
+  948  python app.py
+  949  ../loan_qualifier_app/data/daily_rate_sheet.csv
+  950  python app.py
+  951  git status
+  952  git add app.py
+  953  git status
+  954  git commit -m "Added prompt asking if user wants to save csv file."
+  955  git push
+  956  git status
+  957  ls
+  958  python app.py
+  959  ls
+  960  python app.py
+  961  python app.py
+  962  python app.py
+  963  git status
+  964  git add READ.md
+  965  git add README.md
+  966  git add app.py
+  967  git status
+  968  git commit -m "Updated app.py to ask if user wants to save qualified loan list to csv file. Updated README.md.\n"
+  969  git push
+  970  ls
