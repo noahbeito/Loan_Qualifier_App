@@ -1,6 +1,6 @@
 # Loan Qualifier App
 
-This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility, and then returning to them a list of qualifying loans.
+This is a python command-line interface application that allows users to see qualifying loans from lenders quickly and easily. The application works by taking in a `daily_rate_sheet` of loan criteria from various loan providers, asking the user a number of questions to evaluate their loan eligibility, and then returning to them a list of qualifying loans. It finishes by asking if the user would like to save the list of qualifying loans to a new csv file.
 ---
 
 ## Technologies
@@ -13,9 +13,7 @@ This project leverages python 3.7 with the following packages:
 
 ## Installation Guide
 
-Before running the application, install the following dependencies:
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install fire and questionary.
+Before running the application, use the package manager [pip](https://pip.pypa.io/en/stable/) to install fire and questionary.
 
 ```python
 pip install fire
